@@ -9,6 +9,7 @@
 import java.util.Scanner;
 
 public class Lab5_Q2_acar {
+    
     public static void main(String[] args) {
 
         // On Planet X, the weights of the mountains are calculated according to their width, where the widths may only be odd values.
