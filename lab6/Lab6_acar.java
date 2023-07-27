@@ -7,7 +7,6 @@
 */
 
 import java.util.Scanner;
-//pay attention to the remove letter part 
 public class Lab6_acar {
 
     /**
