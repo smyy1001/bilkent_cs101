@@ -48,5 +48,4 @@ public class Lab02_Q3_acar {
         System.out.printf( "GRAMS CARBS: %.2f %n", carbs);
 
     }
-    
 }
