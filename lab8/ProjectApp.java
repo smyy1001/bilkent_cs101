@@ -25,5 +25,4 @@ public class ProjectApp {
         System.out.println(project1);
         
     }
-
 }
