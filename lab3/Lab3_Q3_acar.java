@@ -64,7 +64,6 @@ public class Lab3_Q3_acar {
             System.out.printf( "I don't understand, \"%s\" is not a valid answer", object1);
         }
         input.close();
-
     }
     
 }
