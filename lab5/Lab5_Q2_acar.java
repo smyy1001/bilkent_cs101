@@ -7,7 +7,6 @@
 */
 
 import java.util.Scanner;
-
 public class Lab5_Q2_acar {
     
     public static void main(String[] args) {
