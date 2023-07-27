@@ -18,7 +18,6 @@ public class Lab01_Q4_acar {
         
         b = (Math.pow(a, n) - Math.pow((Math.pow(-a, -1)),n)) / Math.sqrt(5);
         System.out.println( "Fibonacci(" + n + "): " + (long) b );
-
     }
     
 }
