@@ -57,6 +57,5 @@ public class Lab4_Q3_acar {
 
         System.out.printf("In hexadecimal: #%s\n", hex);
         input.close();
-
     }
 }
