@@ -1,3 +1,11 @@
+/*
+ * Course: CS-101
+ * Semester: Spring 2022
+ * Assignment: Lab02 - Q1
+ * Author: Sumeyye Acar
+ * Id: 22103640
+*/
+
 import java.util.Scanner;
 
 public class Lab02_Q1_acar {
