@@ -58,7 +58,6 @@ public class fitnessApp {
                 System.out.println("3 - Body Mass Index\n4 - Display Fitness Level\n5 - Quit");
                 choice = in.nextInt();                
             }
-
         }
         in.close();
     }
