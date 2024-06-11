@@ -1,11 +1,3 @@
-/*
- * Course: CS-101
- * Semester: Spring 2022
- * Assignment: Lab01 - Q1
- * Author: Sumeyye Acar
- * Id: 22103640
-*/
-
 public class Lab01_Q1_acar  {
 
 	public static void main(String[] args) {
